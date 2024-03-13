@@ -2,4 +2,4 @@
 
 Вёрстка: [Александр Варламов](https://github.com/AlexandrVar/)
 
-[Демо проекта](https://AlexandrVar.github.io/device)
+[Демо проекта](https://alexandrvar.github.io/device/)
